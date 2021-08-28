@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C309746C-D384-45FC-84C9-E07A5939FF20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CallCenterSystem.My.MyApplication</StartupObject>
+    <RootNamespace>CallCenterSystem</RootNamespace>
+    <AssemblyName>CallCenterSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CallCenterSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CallCenterSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Common\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Alerts\ucAlerts.Designer.vb">
+      <DependentUpon>ucAlerts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Alerts\ucAlerts.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Screens\Connections\ucConnections.Designer.vb">
+      <DependentUpon>ucConnections.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Connections\ucConnections.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Screens\Dashboard\ucDashboard.Designer.vb">
+      <DependentUpon>ucDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dashboard\ucDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\frmStart.Designer.vb">
+      <DependentUpon>frmStart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Common\frmStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Screens\Reports\ucReports.Designer.vb">
+      <DependentUpon>ucReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Reports\ucReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Screens\Sales\ucSales.Designer.vb">
+      <DependentUpon>ucSales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Sales\ucSales.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Screens\Settings\ucSettings.Designer.vb">
+      <DependentUpon>ucSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Settings\ucSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Connections\ucConnections.resx">
+      <DependentUpon>ucConnections.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Dashboard\ucDashboard.resx">
+      <DependentUpon>ucDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\frmStart.resx">
+      <DependentUpon>frmStart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Reports\ucReports.resx">
+      <DependentUpon>ucReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Sales\ucSales.resx">
+      <DependentUpon>ucSales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Settings\ucSettings.resx">
+      <DependentUpon>ucSettings.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stsAtendimento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Components\Components.vbproj">
+      <Project>{7d018bc0-b85c-4ac9-8c1e-76d2d974b216}</Project>
+      <Name>Components</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stsNegociacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stsPausa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stsTabulacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-photo-64.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

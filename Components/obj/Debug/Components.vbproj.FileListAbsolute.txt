@@ -1,0 +1,22 @@
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\bin\Debug\Components.dll.config
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\bin\Debug\Components.dll
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\bin\Debug\Components.pdb
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\bin\Debug\Components.xml
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.ucMenuChart.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.Resources.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.vbproj.GenerateResource.cache
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.vbproj.CoreCompileInputs.cache
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.dll
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.xml
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Components\obj\Debug\Components.pdb
+C:\Users\jarde\Source\Repos\call-center-system\Components\bin\Debug\Components.dll.config
+C:\Users\jarde\Source\Repos\call-center-system\Components\bin\Debug\Components.dll
+C:\Users\jarde\Source\Repos\call-center-system\Components\bin\Debug\Components.pdb
+C:\Users\jarde\Source\Repos\call-center-system\Components\bin\Debug\Components.xml
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.ucMenuChart.resources
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.Resources.resources
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.vbproj.GenerateResource.cache
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.vbproj.CoreCompileInputs.cache
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.dll
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.xml
+C:\Users\jarde\Source\Repos\call-center-system\Components\obj\Debug\Components.pdb

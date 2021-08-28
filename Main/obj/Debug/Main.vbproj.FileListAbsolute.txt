@@ -1,0 +1,45 @@
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\CallCenterSystem.exe.config
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\CallCenterSystem.exe
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\CallCenterSystem.pdb
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\CallCenterSystem.xml
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\Components.dll
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\Components.pdb
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\Components.xml
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\bin\Debug\Components.dll.config
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\Main.vbprojAssemblyReference.cache
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.ucConnections.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.ucDashboard.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.frmStart.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.Resources.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.ucReports.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.ucSettings.resources
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\Main.vbproj.GenerateResource.cache
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\Main.vbproj.CopyComplete
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.exe
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.xml
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.pdb
+C:\Users\jarde\Documents\Jardel\Portfólio\Visual Basic\Treinamento\Treinamento\obj\Debug\CallCenterSystem.ucSales.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\CallCenterSystem.exe.config
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\CallCenterSystem.exe
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\CallCenterSystem.pdb
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\CallCenterSystem.xml
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\Components.dll
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\Components.pdb
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\Components.xml
+C:\Users\jarde\Source\Repos\call-center-system\Main\bin\Debug\Components.dll.config
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\Main.vbprojAssemblyReference.cache
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.frmAbout.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.ucConnections.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.ucDashboard.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.frmStart.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.Resources.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.ucReports.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.ucSales.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.ucSettings.resources
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\Main.vbproj.GenerateResource.cache
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\Main.vbproj.CoreCompileInputs.cache
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\Main.vbproj.CopyComplete
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.exe
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.xml
+C:\Users\jarde\Source\Repos\call-center-system\Main\obj\Debug\CallCenterSystem.pdb
